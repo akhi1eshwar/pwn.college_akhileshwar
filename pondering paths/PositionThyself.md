@@ -8,11 +8,11 @@ throught this step, the actual directory of the program was revealed so i used t
 after that i simply used /challenge/run which worked this time as i was in the correct directory and the flag was given.
 
 '''
-hacker@paths ~ position-thy-self:~$ /challenge/run
+hacker@paths ~ position-thy-self: ~  $ /challenge/run
 Incorrect...
 You are not currently in the /tmp directory.
 Please use the `cd` utility to change directory appropriately.
-hacker@paths ~ position-thy-self:~$ cd /tmp
+hacker@paths ~ position-thy-self: ~ $ cd /tmp
 hacker@paths ~ position-thy-self:/tmp$ /challenge/run
 Correct!!!
 /challenge/run is an absolute path, invoked from the right directory!
