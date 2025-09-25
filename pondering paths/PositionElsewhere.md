@@ -8,12 +8,12 @@ the terminal told me which directory the program was in so i added the directory
 after i ran /challenge/run again, it worked and i got the flag.
 
 '''
-hacker@paths~position-elsewhere:~$ /challenge/run
+hacker@paths ~ position-elsewhere:~$ /challenge/run
 Incorrect...
 You are not currently in the /usr/share/doc directory.
 Please use the `cd` utility to change directory appropriately.
-hacker@paths~position-elsewhere:~$ cd /usr/share/doc
-hacker@paths~position-elsewhere:/usr/share/doc$ /challenge/run
+hacker@paths ~ position-elsewhere:~$ cd /usr/share/doc
+hacker@paths ~ position-elsewhere:/usr/share/doc$ /challenge/run
 Correct!!!
 /challenge/run is an absolute path, invoked from the right directory!
 Here is your flag:
