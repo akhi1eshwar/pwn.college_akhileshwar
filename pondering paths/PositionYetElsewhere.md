@@ -8,12 +8,12 @@ same as the last two challenges, we now go to another directory to find the abso
 
 
 '''
-hacker@paths~position-yet-elsewhere:~$ /challenge/run
+hacker@paths~position-yet-elsewhere: ~ $ /challenge/run
 Incorrect...
 You are not currently in the /usr/share/doc/fontconfig directory.
 Please use the `cd` utility to change directory appropriately.
-hacker@paths~position-yet-elsewhere:~$ cd /usr/share/doc/fontconfig
-hacker@paths~position-yet-elsewhere:/usr/share/doc/fontconfig$ /challenge/run
+hacker@paths ~ position-yet-elsewhere: ~ $ cd /usr/share/doc/fontconfig
+hacker@paths ~ position-yet-elsewhere:/usr/share/doc/fontconfig$ /challenge/run
 Correct!!!
 /challenge/run is an absolute path, invoked from the right directory!
 Here is your flag:
