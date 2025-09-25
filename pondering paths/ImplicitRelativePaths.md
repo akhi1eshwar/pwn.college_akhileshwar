@@ -7,13 +7,13 @@ in this challenge, i had to use cd command to change directories to challenge an
 otherwise it would simply tell that the command was not found. this is becuase it is a "naked" path.
 
 '''
-hacker@paths~implicit-relative-path:~$ cd /challenge
-hacker@paths~implicit-relative-path:/challenge$ ./run
+hacker@paths ~ implicit-relative-path:~ $ cd /challenge
+hacker@paths ~ implicit-relative-path:/challenge$ ./run
 Correct!!!
 ./run is a relative path, invoked from the right directory!
 Here is your flag:
 pwn.college{skxT-3hNNmTmjfQYMO0VJ3eP_Md.QXxUTN0wSO1gjNzEzW}
-hacker@paths~implicit-relative-path:/challenge$ 
+hacker@paths ~ implicit-relative-path:/challenge$ 
 '''
 
 ## What i learnt
