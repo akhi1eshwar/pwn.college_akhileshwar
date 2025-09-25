@@ -7,7 +7,7 @@ in this challenge i just had to add the command "challenge" after the "/ root" t
 this shows that the run program was not in the root but a directory called challenge in root.
 
 '''
-hacker@paths~program-and-absolute-paths:~$ /challenge/run
+hacker@paths ~ program-and-absolute-paths: ~ $ /challenge/run
 Correct!!!
 /challenge/run is an absolute path! Here is your flag:
 pwn.college{kx97_fctaF51j72DRT7-1kH3TKV.QX1QTN0wSO1gjNzEzW}
