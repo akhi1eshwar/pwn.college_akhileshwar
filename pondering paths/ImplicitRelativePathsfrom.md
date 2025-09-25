@@ -9,8 +9,8 @@ after that i used a relative path challenge/run (notice there is no '/' before c
 and from that i got the flag.
 
 '''
-hacker@paths~implicit-relative-paths-from-:/$ cd /
-hacker@paths~implicit-relative-paths-from-:/$ challenge/run
+hacker@paths ~ implicit-relative-paths-from-:/$ cd /
+hacker@paths ~ implicit-relative-paths-from-:/$ challenge/run
 Correct!!!
 challenge/run is a relative path, invoked from the right directory!
 Here is your flag:
