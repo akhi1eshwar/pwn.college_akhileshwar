@@ -7,11 +7,11 @@ in this challenge, i had to change the cwd to /, and after that i tried to do th
 i retried using ./challenge/run and the program run and i got the flag.
 
 '''
-hacker@paths~explicit-relative-paths-from-:~$ cd /
-hacker@paths~explicit-relative-paths-from-:/$ challenge/run
+hacker@paths ~ explicit-relative-paths-from-:~$ cd /
+hacker@paths ~ explicit-relative-paths-from-:/$ challenge/run
 Incorrect...
 This challenge must be called with a relative path that explicitly starts with a `.`!
-hacker@paths~explicit-relative-paths-from-:/$ ./challenge/run
+hacker@paths ~ explicit-relative-paths-from-:/$ ./challenge/run
 Correct!!!
 ./challenge/run is a relative path, invoked from the right directory!
 Here is your flag:
