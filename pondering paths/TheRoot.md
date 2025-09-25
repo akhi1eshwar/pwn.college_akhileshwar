@@ -7,11 +7,11 @@ to get the flag, we only had to use the /pwn command, which basically means that
 
 commands:
 '''
-hacker@paths~the-root:~$ /pwn
+hacker@paths ~ the-root: ~ $ /pwn
 BOOM!!!
 Here is your flag:
 pwn.college{E1okUyQ-aPSleN9cHlTYG4PFPNK.QX4cTO0wSO1gjNzEzW}
-hacker@paths~the-root:~$ 
+hacker@paths~the-root: ~ $ 
 '''
 
 ## What i learnt
