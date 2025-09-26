@@ -4,7 +4,7 @@
 
 **Flag** 'pwn.college{ELlm1ld1R-Ea-6c1P0L6Ns6xUDd.QX5IDO0wSO1gjNzEzW}'
 
-in this challenge i had to follow all the paths that the terminal gave me, after all that i got the flag
+in this challenge i had to follow all the paths that the terminal gave me, after all that i got the flag after a few attempts through trial and error
 
 ```
 hacker@commands~an-epic-filesystem-quest:~$ cd /
